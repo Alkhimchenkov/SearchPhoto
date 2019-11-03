@@ -1,0 +1,6 @@
+framework module Pods_SearchPhoto {
+  umbrella header "Pods-SearchPhoto-umbrella.h"
+
+  export *
+  module * { export * }
+}
