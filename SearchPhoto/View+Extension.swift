@@ -1,9 +1,9 @@
 //
-//  Extension.swift
-//  Sample_TableView
+//  View+Extension.swift
+//  SearchPhoto
 //
-//  Created by Esat Kemal Ekren on 5.04.2018.
-//  Copyright © 2018 Esat Kemal Ekren. All rights reserved.
+//  Created by Andrey Alhimchenkov on 11/3/19.
+//  Copyright © 2019 Andrey Alhimchenkov. All rights reserved.
 //
 
 import UIKit
