@@ -16,7 +16,7 @@
 		FD677503236F4BE8002E955B /* CacheImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD677502236F4BE8002E955B /* CacheImage.swift */; };
 		FD677505236F60DA002E955B /* ConstantsFlickr.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD677504236F60DA002E955B /* ConstantsFlickr.swift */; };
 		FD677509236F8773002E955B /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD677508236F8773002E955B /* TableViewCell.swift */; };
-		FD67750B236F8CFC002E955B /* View+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD67750A236F8CFC002E955B /* View+Extension.swift */; };
+		FD67750D236FFF26002E955B /* View+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD67750C236FFF26002E955B /* View+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,7 +33,7 @@
 		FD677502236F4BE8002E955B /* CacheImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CacheImage.swift; sourceTree = "<group>"; };
 		FD677504236F60DA002E955B /* ConstantsFlickr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsFlickr.swift; sourceTree = "<group>"; };
 		FD677508236F8773002E955B /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
-		FD67750A236F8CFC002E955B /* View+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "View+Extension.swift"; path = "../../../../Downloads/Sample-Custom-TableView-Project--master/Sample_TableView/View+Extension.swift"; sourceTree = "<group>"; };
+		FD67750C236FFF26002E955B /* View+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "View+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,13 +86,13 @@
 		FD6774E9236EE244002E955B /* SearchPhoto */ = {
 			isa = PBXGroup;
 			children = (
+				FD67750C236FFF26002E955B /* View+Extension.swift */,
 				FD6774EA236EE244002E955B /* AppDelegate.swift */,
 				FD6774EE236EE244002E955B /* ViewController.swift */,
 				FD677500236F46CE002E955B /* String+Extension.swift */,
 				FD677502236F4BE8002E955B /* CacheImage.swift */,
 				FD677504236F60DA002E955B /* ConstantsFlickr.swift */,
 				FD677508236F8773002E955B /* TableViewCell.swift */,
-				FD67750A236F8CFC002E955B /* View+Extension.swift */,
 				FD6774F3236EE247002E955B /* Assets.xcassets */,
 				FD6774F5236EE247002E955B /* LaunchScreen.storyboard */,
 				FD6774F8236EE247002E955B /* Info.plist */,
@@ -216,10 +216,10 @@
 			files = (
 				FD677501236F46CE002E955B /* String+Extension.swift in Sources */,
 				FD6774EF236EE244002E955B /* ViewController.swift in Sources */,
-				FD67750B236F8CFC002E955B /* View+Extension.swift in Sources */,
 				FD677505236F60DA002E955B /* ConstantsFlickr.swift in Sources */,
 				FD677509236F8773002E955B /* TableViewCell.swift in Sources */,
 				FD677503236F4BE8002E955B /* CacheImage.swift in Sources */,
+				FD67750D236FFF26002E955B /* View+Extension.swift in Sources */,
 				FD6774EB236EE244002E955B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
